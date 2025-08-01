@@ -7,8 +7,10 @@ This is a very simple script to configure your personal ".XCompose" file and  yo
 
 Using Ç on Gnome/KDE sounds like issue, even if you set the right keyboard configuration. Instead to use ALT key + several keys, yo need to add this snippet into `~/.XCompose` file:
 
-```<dead_acute> <c> : "ç" U00E7
-<dead_acute> <C> : "Ç" U00C7```
+```
+<dead_acute> <c> : "ç" U00E7
+<dead_acute> <C> : "Ç" U00C7
+```
 
 Log out and log in again to see the results.
 
