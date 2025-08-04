@@ -1,3 +1,5 @@
 ##### Welcome to my personal blog
 
-More than 20 years of programming experience. Working at [Red Hat], previously at [IBM]
+I write about software developer stuff specially in python and C/C++ and freesoftware and opensouce
+
+Working at [Red Hat] on [RPM Team] - Linux Engineering team, previously at [IBM]
